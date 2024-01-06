@@ -40,6 +40,9 @@ namespace ITP104___Finals_Project___Exam {
             // Variable boolean userExists is used for determining whether the user already exists in the database.
             bool userExists = false;
 
+/// DARREL DITO LANG SA LOOB NG TRY CATCH FINALLY YUNG 4 VALIDATION. 
+/// DARREL DITO LANG SA LOOB NG TRY CATCH FINALLY YUNG 4 VALIDATION. 
+/// DARREL DITO LANG SA LOOB NG TRY CATCH FINALLY YUNG 4 VALIDATION. 
             // Try...Catch...Finally statements for error handling.
             // This handles exceptions that will prevent the program from terminating abruptly.
             try {
