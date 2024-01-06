@@ -31,7 +31,7 @@ namespace ITP104___Finals_Project___Exam {
             MySqlConnection connection = new MySqlConnection(con);
 
             // Query to check if the user exists in the database. Utilizing parameters to prevent SQL Injection.
-            String query = $"SELECT * FROM tbl_users WHERE username = @Username";
+            String query = $"SELECT username FROM tbl_users WHERE username = @Username";
 
             // Bind the query and connection to the MySQLCommand.
             MySqlCommand command = new MySqlCommand(query, connection);
@@ -65,9 +65,10 @@ namespace ITP104___Finals_Project___Exam {
                     dataReader.Close();
 
                     // Query for checking the user's password in the database.
-                    query = $"SELECT * FROM tbl_users WHERE password = @Password";
+                    query = $"SELECT password FROM tbl_users WHERE password = @Password AND username = @Username";
 
                     command = new MySqlCommand(query, connection);
+                    command.Parameters.AddWithValue("@Username", username);
                     command.Parameters.AddWithValue("@Password", password);
 
                     dataReader = command.ExecuteReader();
