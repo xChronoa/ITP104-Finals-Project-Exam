@@ -55,7 +55,7 @@ namespace ITP104___Finals_Project___Exam {
                     // Check user inputted username and compare it with username from the database to check for its capitalization.
                     // Validate username case sensitivitiy.
                     if (!String.Equals(username, dataReader["username"].ToString(), StringComparison.Ordinal)) {
-                        MessageBox.Show("Invalid username or password. Please check your capitalization.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        MessageBox.Show("Invalid username or password. \nPlease check your capitalization.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         txtPassword.Text = "";
                         return;
                     }
@@ -78,7 +78,7 @@ namespace ITP104___Finals_Project___Exam {
                         // Check user inputted password and compare it with password from the database to check for its capitalization.
                         // Validate password case sensitivitiy.
                         if (!String.Equals(password, dataReader["password"].ToString(), StringComparison.Ordinal)) {
-                            MessageBox.Show("Invalid username or password. Please check your capitalization.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                            MessageBox.Show("Invalid username or password. \nPlease check your capitalization.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             txtPassword.Text = "";
                             return;
                         }

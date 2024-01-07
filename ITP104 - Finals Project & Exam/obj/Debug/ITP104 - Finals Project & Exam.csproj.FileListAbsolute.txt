@@ -232,3 +232,42 @@ C:\Users\Elzav\source\repos\ITP104 - Finals Project & Exam (01-05-2023 22-36-10)
 C:\Users\Elzav\source\repos\ITP104 - Finals Project & Exam (01-05-2023 22-36-10)\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.csproj.CopyComplete
 C:\Users\Elzav\source\repos\ITP104 - Finals Project & Exam (01-05-2023 22-36-10)\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.exe
 C:\Users\Elzav\source\repos\ITP104 - Finals Project & Exam (01-05-2023 22-36-10)\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.pdb
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\ITP104 - Finals Project & Exam.exe.config
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\ITP104 - Finals Project & Exam.exe
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\ITP104 - Finals Project & Exam.pdb
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\MySqlBackupNet.MySqlConnector.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\MySqlConnector.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Buffers.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Memory.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\MySqlConnector.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Buffers.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Memory.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.csproj.AssemblyReference.cache
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.Dashboard.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.DBBackupAndRestore.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.Delivery.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.InventoryMonitoring.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.Login.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.Maintenance.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.UpdateCategory.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.UpdateItem.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.UpdateSupplier.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.UpdateUser.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.PointOfSales.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.Properties.Resources.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104___Finals_Project___Exam.SalesMonitoring.resources
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.csproj.GenerateResource.cache
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.csproj.CoreCompileInputs.cache
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.csproj.CopyComplete
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.exe
+C:\Users\Elzav\Source\Repos\ITP104-Finals-Project-Exam\ITP104 - Finals Project & Exam\obj\Debug\ITP104 - Finals Project & Exam.pdb
