@@ -233,6 +233,7 @@
             this.Padding = new System.Windows.Forms.Padding(5);
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sales Monitoring";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SalesMonitoring_FormClosing);
             this.Load += new System.EventHandler(this.SalesMonitoring_Load);
             this.msMenuBar.ResumeLayout(false);

@@ -126,6 +126,9 @@ namespace ITP104___Finals_Project___Exam {
                 dgvResults.Rows[selectedIndex].Selected = true;
                 dgvResults.FirstDisplayedScrollingRowIndex = selectedIndex;
 
+                // Refresh the contents of the combo box under Item Tab in Maintenance Form.
+                this.maintenanceForm.fetchItemCategories();
+
                 // Dipose the update category dialog.
                 this.Dispose();
             });

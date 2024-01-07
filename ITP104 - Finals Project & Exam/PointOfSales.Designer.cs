@@ -543,6 +543,7 @@
             this.Name = "PointOfSales";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Point of Sales";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.PointOfSales_FormClosing);
             this.Load += new System.EventHandler(this.PointOfSales_Load);
             this.SizeChanged += new System.EventHandler(this.PointOfSales_SizeChanged);

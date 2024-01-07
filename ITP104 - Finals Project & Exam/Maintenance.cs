@@ -105,7 +105,7 @@ namespace ITP104___Finals_Project___Exam {
         }
 
         //  Method for fetching the existing item categories and setting the cboCategoryName's value to the fetched data.
-        private void fetchItemCategories() {
+        public void fetchItemCategories() {
             executeQuery(() => {
                 // Fetch the category name from table item category.
                 query = "SELECT category_name FROM tbl_itemcategory";

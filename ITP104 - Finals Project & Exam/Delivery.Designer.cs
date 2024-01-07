@@ -447,6 +447,7 @@
             this.Name = "Delivery";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Delivery";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Delivery_FormClosing);
             this.Load += new System.EventHandler(this.Delivery_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvResults)).EndInit();

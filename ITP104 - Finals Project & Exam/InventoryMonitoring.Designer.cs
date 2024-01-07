@@ -145,6 +145,7 @@
             this.Name = "InventoryMonitoring";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Inventory Monitoring";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.InventoryMonitoring_FormClosing);
             this.msMenuBar.ResumeLayout(false);
             this.msMenuBar.PerformLayout();
